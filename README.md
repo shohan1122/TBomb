@@ -1,4 +1,4 @@
-<img src="https://a.top4top.io/p_23181ith60.jpg" alt="ToxicBomber">
+
 Most Updated SMS Bomber For Bangladeshi Numbers
 
 # Note:
@@ -21,7 +21,7 @@ pkg install python -y
 pkg install git -y
 pip install requests
 git clone https://github.com/Toxic-Noob/ToxicBomber
-cd ToxicBomber
+cd BDBomber
 python Tbomb.py
 ```
 
@@ -32,13 +32,13 @@ python Tbomb.py
 
 ## Contact :
 For Any Help or Suggestions, Contact With Us:
-<li> Via <a href="https://facebook.com/ToxicNoobOfficial">Facebook Page</a>
-<li> Via <a href="mailto: ContactWithToxicNoob@gmail.com">Email</a>
+<li> Via <a href="https://facebook.com/shohanoffical222">Facebook Page</a>
+<li> Via <a href="mailto: khanteem9@gmail.com">Email</a>
 
 
 # Screenshot:
-<img src="https://c.top4top.io/p_23185bxls0.jpg" alt="ToxicBomber">
+
 
 ### Visitors :
 
-![Visitor Count](https://profile-counter.glitch.me/Toxic-Noob/count.svg)
+
